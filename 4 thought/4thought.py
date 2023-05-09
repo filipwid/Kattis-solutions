@@ -16,3 +16,4 @@ for _ in range(numTests):
 
     else:
         print('no solution')
+        
