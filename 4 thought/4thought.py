@@ -1,4 +1,4 @@
-numTests = int(input())
+#numTests = int(input())
 operators = ['+', '-', '*', '//']
 numDict = {}
 
@@ -9,10 +9,10 @@ for i in operators:
             result = int(eval(expr))
             numDict[result] = expr.replace('//', '/') + " = " + str(result)
 
-for _ in range(numTests):
-    target = int(input())
+for i in range(-62, 258, 1):
+    target = i
     if target in numDict:
-        print(numDict[target])
+        print("For {:d}: ".format(i) + numDict[target])
 
     else:
-        print('no solution')
+        print("For {:d}: ".format(i) + "no solution")
