@@ -1,6 +1,6 @@
 # Kattis-solutions
 
-My solutions to some Kattis problems
+My solutions to some Kattis problems (difficulty at time of submission)
 | Problem | Difficulty |  Solution |
 | ------- | ---------- | -------- |
 | [Arable Area](https://open.kattis.com/problems/arable) | Hard (8.9) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/Arable%20Area/arable.cpp) |
