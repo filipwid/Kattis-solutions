@@ -4,6 +4,7 @@ My solutions to some Kattis problems (difficulty at time of submission)
 | Problem | Difficulty |  Solution |
 | ------- | ---------- | -------- |
 | [Arable Area](https://open.kattis.com/problems/arable) | Hard (8.9) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/Arable%20Area/arable.cpp) |
+| [AI Jeopardy](https://open.kattis.com/problems/aijeopardy) | Hard (7.1) | [Python](https://github.com/filipwid/kattis-solutions/blob/main/AI%20Jeopardy/aijeopardy.py) |
 | [#include&lt;Scoring&gt;](https://open.kattis.com/problems/includescoring) | Hard (5.5) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/includescoring/includescoring.cpp) |
 | [4 thought](https://open.kattis.com/problems/4thought) | Medium (3.4) | [C](https://github.com/filipwid/kattis-solutions/blob/main/4%20thought/4thought.c),  [Python](https://github.com/filipwid/kattis-solutions/blob/main/4%20thought/4thought.py) |
 | [Single source shortest path, safe path](https://open.kattis.com/problems/shortestpath4) | Medium (3.7) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/Single%20source%20shortest%20path%2C%20safe%20path/shortestpath4.cpp) |
