@@ -6,6 +6,7 @@ My solutions to some Kattis problems (difficulty at time of submission)
 | [Arable Area](https://open.kattis.com/problems/arable) | Hard (8.9) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/Arable%20Area/arable.cpp) |
 | [AI Jeopardy](https://open.kattis.com/problems/aijeopardy) | Hard (7.1) | [Python](https://github.com/filipwid/kattis-solutions/blob/main/AI%20Jeopardy/aijeopardy.py) |
 | [#include&lt;Scoring&gt;](https://open.kattis.com/problems/includescoring) | Hard (5.5) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/includescoring/includescoring.cpp) |
+| [A Rational Sequence](https://open.kattis.com/problems/rationalsequence) | Medium (5.0) | [Java](https://github.com/filipwid/kattis-solutions/blob/main/A%20Rational%20Sequence/rationalsequence.java) |
 | [4 thought](https://open.kattis.com/problems/4thought) | Medium (3.4) | [C](https://github.com/filipwid/kattis-solutions/blob/main/4%20thought/4thought.c),  [Python](https://github.com/filipwid/kattis-solutions/blob/main/4%20thought/4thought.py) |
 | [Single source shortest path, safe path](https://open.kattis.com/problems/shortestpath4) | Medium (3.7) | [C++](https://github.com/filipwid/kattis-solutions/blob/main/Single%20source%20shortest%20path%2C%20safe%20path/shortestpath4.cpp) |
 | [A Furious Cocktail](https://open.kattis.com/problems/cocktail) | Medium (2.9) | [C](https://github.com/filipwid/kattis-solutions/blob/main/A%20Furious%20Cocktail/cocktail.c), [C++](https://github.com/filipwid/kattis-solutions/blob/main/A%20Furious%20Cocktail/cocktail.cpp) |
